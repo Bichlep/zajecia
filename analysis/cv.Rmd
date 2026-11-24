@@ -45,6 +45,7 @@ Krótki, zwięzły opis Twojego doświadczenia, umiejętności i celów zawodowy
 
 ## Certyfikaty
 
+
 - Nazwa Certyfikatu, Instytucja, Rok
 - Kolejny Certyfikat
 
